@@ -1,6 +1,6 @@
 # Awsome datasets for machine learning applications.
 
-- A list of topic-centric open datasets needed for machine learning research projects.
+*A list of topic-centric open datasets needed for machine learning research projects.*
 
 ## 大学公开数据集
 
