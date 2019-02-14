@@ -362,13 +362,13 @@ http://t.cn/RI5liwJ
 
 ## 常用图像数据集大全（分类，跟踪，分割，检测等）
 
-1. 搜狗实验室数据集：
+搜狗实验室数据集：
 
 http://www.sogou.com/labs/dl/p.html
 
 互联网图片库来自sogou图片搜索所索引的部分数据。其中收集了包括人物、动物、建筑、机械、风景、运动等类别，总数高达2,836,535张图片。对于每张图片，数据集中给出了图片的原图、缩略图、所在网页以及所在网页中的相关文本。200多G
 
-2. http://www.imageclef.org/
+http://www.imageclef.org/
 
 IMAGECLEF致力于位图片相关领域提供一个基准（检索、分类、标注等等） Cross Language Evaluation Forum (CLEF) 。从2003年开始每年举行一次比赛.
 
